@@ -38,6 +38,13 @@ Agora, estou me desafiando também na área de programação e desenvolvimento d
 - [My First Repository](https://github.com/Elo-Carvalho-senai/my-first-repository)  
 
 ---
+## 📊 Estatísticas do GitHub
+![Elo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+---
+## 📈 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+---
 
 ## 📚 Curiosidade
 
