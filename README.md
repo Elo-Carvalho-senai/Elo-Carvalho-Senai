@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Elo Carvalho!
+# 👋 Olá, eu sou a Elô!
 
 🎓 **Estudante de Desenvolvimento de Sistemas** — SENAI-SP  
 💡 Apaixonada por tecnologia, inovação e aprendizado contínuo.
