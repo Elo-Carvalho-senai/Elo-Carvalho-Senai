@@ -39,11 +39,11 @@ Agora, estou me desafiando também na área de programação e desenvolvimento d
 
 ---
 ## 📊 Estatísticas do GitHub
-![Elo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Elo GitHub stats](https://github-readme-stats.vercel.app/api?username=Elo-Carvalho-Senai&show_icons=true&theme=radical)
 
 ---
 ## 📈 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elo-Carvalho-Senai&layout=compact&theme=radical)
 ---
 
 ## 📚 Curiosidade
